@@ -42,6 +42,7 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 set number
+set relativenumber
 set t_Co=256
 
 " Navigations using arrow keys disabled
